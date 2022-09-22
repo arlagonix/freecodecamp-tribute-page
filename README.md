@@ -7,7 +7,7 @@
 </h3>
 
 ## ℹ️ About
-  
+   
 This is a solution to the [Build a Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page).
 
 **Build an app that is functionally similar to** https://tribute-page.freecodecamp.rocks/
