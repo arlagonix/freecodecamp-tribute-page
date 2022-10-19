@@ -1,4 +1,7 @@
-# Tribute page
+<h1 align="center">Tribute Page</h1>
+<p align="center">
+  Coded with <code>HTML</code>, <code>CSS</code>
+</p>
 
 ## ℹ️ About
    
